@@ -1,5 +1,5 @@
-:
-
+<h1 align="center">🚀 ADITYA JAISWAL</h1>
+<h2 align="center">Backend-Focused Full-Stack Engineer</h2> <h3 align="center"> <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00BFFF&center=true&vCenter=true&width=800&lines=FastAPI+•+Scalable+Systems+•+REST+Architectures;Performance-Driven+Backend+Engineer;Clean+Code+•+Secure+Auth+•+Optimized+APIs" /> </h3>
 👋 Hi, I'm Aditya Jaiswal
 
 🎓 B.Tech CSE | 💻 Backend & Full-Stack Developer | 📍 Bengaluru
