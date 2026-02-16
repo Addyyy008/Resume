@@ -1,92 +1,72 @@
-🚀 Aditya Jaiswal
-Backend-Focused Full-Stack Engineer | FastAPI | Scalable Systems | Problem Solver
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yourgithubusername&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" /> </p>
-⚡ Engineering Philosophy
+:
 
-I don’t just build applications.
-I build scalable systems, optimize performance, and ship production-ready code.
+👋 Hi, I'm Aditya Jaiswal
 
-Backend-first mindset.
-Clean architecture.
-Performance-driven development.
+🎓 B.Tech CSE | 💻 Backend & Full-Stack Developer | 📍 Bengaluru
 
-🧠 What I Do Best
+🚀 About Me
 
-🔥 Design high-performance REST APIs using FastAPI
+I am a Computer Science undergraduate from VIT Bhopal passionate about building scalable backend systems and full-stack web applications.
 
-🛢 Build scalable database architectures (PostgreSQL / MySQL)
+I enjoy designing APIs, optimizing performance, and solving real-world engineering problems using clean and efficient code.
 
-🔐 Implement secure authentication using JWT
+I have hands-on experience with:
 
-⚛ Develop responsive frontends with React
+⚡ FastAPI & REST APIs
 
-🐳 Containerize applications with Docker
+🛢 PostgreSQL & MySQL
 
-☁ Deploy & manage services on AWS
+⚛ React.js
 
-🚀 Optimize systems for speed, reliability & maintainability
+🔐 JWT Authentication
+
+🐳 Docker
+
+☁ AWS
+
+🔄 CI/CD Workflows
 
 💼 Experience
 🏢 Full-Stack Developer Intern — Cognifyz Technologies
 
-Sept 2024 – Dec 2024 | Remote
+Sep 2024 – Dec 2024 (Remote)
 
-Designed and deployed production-level web applications
+Designed and deployed production-ready web applications
 
-Increased engagement by 20%+
+Improved user engagement by 20%+
 
-Reduced delivery time by optimizing backend workflows
+Reduced development time by optimizing backend workflows
 
-Built end-to-end scalable solutions
+Worked across frontend & backend architecture
 
-🧰 Tech Stack
-👨‍💻 Languages
+🧠 Technical Skills
 
-Python SQL Java JavaScript HTML CSS
+Languages: Python, SQL, Java, JavaScript, HTML, CSS
+Backend: FastAPI, REST APIs, JWT, SQLAlchemy
+Databases: PostgreSQL, MySQL
+Tools: Git, GitHub, Docker, AWS, Postman, VS Code
+Core Concepts: OOP, Data Structures & Algorithms, Computer Networks
 
-⚙ Backend
-
-FastAPI REST APIs JWT SQLAlchemy Pydantic ORM
-
-🛢 Databases
-
-PostgreSQL MySQL
-
-☁ DevOps & Tools
-
-Docker AWS Git GitHub Postman CI/CD Uvicorn
-
-📊 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=yourgithubusername&show_icons=true&theme=tokyonight" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourgithubusername&theme=tokyonight" /> </p>
 🏆 Achievements
 
 Core Member — Insights Club (VIT Bhopal)
 
-Boosted digital engagement by 40%
+Managed multimedia production increasing engagement by 40%
 
-Junior State-Level Football Selection (Team Performance Focused)
+Junior State-Level Football Selection
 
 📜 Certifications
 
-Google — GenAI Exchange Program
+GenAI Exchange Program — Google
 
-NPTEL — Cloud Computing
+Cloud Computing — NPTEL
 
-Google — Bits & Bytes of Computer Networking
+Bits and Bytes of Computer Networking — Google
 
-🎯 Currently Focused On
-
-Advanced Backend System Design
-
-Scalable Microservices Architecture
-
-High-performance API optimization
-
-Preparing for Product-Based Companies
-
-📫 Let’s Connect
+📫 Let's Connect
 
 📧 addyjaiswal88@gmail.com
 
 💼 LinkedIn
+
 💻 GitHub
